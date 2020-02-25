@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="long:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/long_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="long" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Hibernate 5.4.3-5.4.3" />
+          <element id="library" level="project" name="Struts 2-2.5.14.1" />
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="mysql-connector-java-5.1.46" />
+          <element id="library" level="project" name="struts2-json-plugin-2.3.4" />
+          <element id="library" level="project" name="commons-beanutils-1.8.3" />
+          <element id="library" level="project" name="commons-codec-1.6" />
+          <element id="library" level="project" name="commons-lang-2.6" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="long/web/Web" />
+    </root>
+  </artifact>
+</component>

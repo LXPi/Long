@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="long:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="233c9cef-dd87-45e3-9be9-69e386bcd777" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/long_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/22f2edba-7e9d-4c8d-8600-20d127931bae.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/22f2edba-7e9d-4c8d-8600-20d127931bae/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_3_5_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_5_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_beanutils_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/struts2_json_plugin_2_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-fileupload.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/freemarker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-core-5.4.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ognl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aop-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-beans-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-core-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-expression-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jms-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-orm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-test-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-tx-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/struts2-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/long.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven/maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/.idea/bui-bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/artDialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/artDialog.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/jquery.artDialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/jquery.artDialog.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/plugins/iframeTools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/plugins/iframeTools.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/aero_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/aero_s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_title_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/aero/ie6/aui_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/bg_css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/bg_css3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/black/ie6/w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/bg_css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/bg_css3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/blue/ie6/w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/chrome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/chrome/border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/chrome/chrome_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/bg_css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/bg_css3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/color_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/green/ie6/w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/icons/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/icons/face-sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/icons/face-smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/icons/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/icons/question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/icons/succeed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/icons/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/idialog_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/idialog_s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/idialog/ie6/aui_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/ie6/aui_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/opera/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/artDialog/skins/twitter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/bootstrap.file-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/ckform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/formValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/formValidatorRegex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/getUrlParam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/jaaulde-cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/js.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Js/json2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Menu/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Menu/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Menu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Menu/js/dropmenu48.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Menu/templates/css/dropmenu48.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Menu/templates/images/bottommenu_1/E.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Menu/templates/images/menu48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Menu/templates/images/smenubg48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Node/Add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Node/Shouyedongtu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Node/Taocao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Node/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Node/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Node/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Node/service.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Node/servicecontrol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Public/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Role/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Role/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/Role/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/User/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/User/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/User/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/longimage/AdminEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/longimage/ChanpinEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/longimage/ProduceshowEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/longimage/ServicesEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/longimage/ShouimageEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/longimage/ShouyedongtuEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/longimage/TaocansEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/longimage/TuijianproduceEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Banner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Cha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Edit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/HibernautUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Kan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Sadmins.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Servicecha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Shan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Shouyedongtu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Showpro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Taocan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/TypeDict.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/com/xc/Xianghca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/classes/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/byte-buddy-1.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/commons-codec-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/commons-fileupload.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/commons-io.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/commons-lang.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/fastjson-1.2.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/freemarker.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/hibernate-core-5.4.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/log4j.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/ognl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-context-support-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-instrument-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-jms-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-messaging-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-orm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-oxm-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-test-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/struts2-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/struts2-json-plugin-2.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/sun.misc.BASE64Decoder.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/js/advsgloballb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/link/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170411/1491903873.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170411/1491903907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170411/1491904133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170411/1491904268.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170412/1491980304.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170412/1491980402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170412/1491980406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170412/1491980410.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170412/1491980621.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170412/1491980760.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170412/1491980760.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/pics/20170519/1495203354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/templates/css/advsgloballb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/advs/templates/images/advsgloballb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/css/bui-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/css/dpl-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/css/main-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/css/page-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/css/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/hide_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/left-slib.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/main-nav-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/main-nav-bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/main-nav-bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/nav_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/resource.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/bui-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/bui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/common/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/common/main-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/common/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/common/page-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/common/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/common/search-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/common/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/config-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/editor-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/jquery-1.8.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/module/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/toolbar-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/assets/js/tree-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/border/537/images/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/border/537/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/border/788/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/js/blockui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/js/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/templates/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/templates/images/chk_error.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/templates/images/chk_msg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/templates/images/chk_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/base/templates/images/pwin3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/bootstrap-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/bootstrap-responsive.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/ddsmoothmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/tanchuang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/css/webmain.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/diy/pics/20170519/1495191244.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/diy/pics/20170519/1495197132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/diy/pics/20170519/1495201292.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/diy/pics/20170519/1495201329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/diy/pics/20170519/1495201360.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/diy/pics/20170519/1495201421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/diy/pics/20170519/1495201868.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/effect/source/bg/1262661247.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/effect/source/bg/1491902298.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/effect/source/bg/1491902390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/front/Css/mobile_web.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/front/Image/home4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/front/Image/icon-address.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/front/Image/icon-author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/guestbook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/hlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/houtai.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/MainMenu_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/banner01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/banner02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/banner03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/banner_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/body_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/cn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/con_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/copyright_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/gb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/getnum.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/index_AboutPic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/index_NewsPic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/info_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/input.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/inputbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/leftmenu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/logo_820.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/logo_jc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/logo_ym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/mainmenu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/more.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/msg_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/msg_box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/product_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/progressbar_microsoft.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/searchbut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/searchinp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/site_nav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/site_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/tel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/v_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/v_line2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/x_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/xuebao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/z2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/z3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/z4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/公司名.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/公司名1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/公司名副本.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/公司名副本1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/图片1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/棺材9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/活动图1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/活动图2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/活动图3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/活动图4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/活动图5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/活动图6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/滚动1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/滚动2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/滚动3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/灯1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/灯2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/灯3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/灵房1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/灵房2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/现场布置.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/现场布置2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/现场布置3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/现场布置4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/现场布置5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/现场布置6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/网图9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/花圈1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/花圈2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/花圈3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/images/花圈4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/indexZ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/job/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/job/templates/css/jobquery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/job/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/class/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/html/Index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/js/newscontent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/js/newslist21.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/pics/20190419/201904191555644817295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/css/newsclass_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/css/newscontent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/css/newslist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/css/newslist21.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/css/newsquery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/banzhu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/dot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/downfile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/fandui.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/fav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/li1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/newslist21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/tags.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/news/templates/images/zhichi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/page/html/companys.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/page/service/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/page/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/page/templates/css/pagecontent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/page/templates/css/pagetitlemenu_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/page/templates/images/dot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/class/Index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/class/Index2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/class/Index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/class/Index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/class/Index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/class/Index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/class/server.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/html/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/html/Index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/html/Index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/html/Index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/html/Index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/html/Index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/js/photocontent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495073096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495073168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495073217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495073242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495073263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495073362.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495073446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495079505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495100517.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495101060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495101094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495101121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495101149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495101484.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170518/1495101571.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495193154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495193168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495193182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495193595.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495193631.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495193667.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495193695.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495193718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495199823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495199922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495199980.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170519/1495200051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170522/1495416879.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20170522/1495416919.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508214300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508214319.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508214332.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508214351.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508214379.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508214398.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508214413.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508214532.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/pics/20171017/1508216706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/css/photoclass_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/css/photocontent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/css/photopic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/css/photoquery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/css/phototwoclass.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/banzhu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/dot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/fandui.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/fav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/li.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/tags.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/photo/templates/images/zhichi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/class/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/class/Index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/js/productcontent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/js/productroll10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170518/1495072500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170518/1495072513.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170518/1495072523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170518/1495072562.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170518/1495072574.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170518/1495072591.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170519/1495190117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170519/1495190506.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170519/1495190530.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170519/1495193402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170519/1495193419.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495416991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417243.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417269.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417290.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417313.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417339.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417782.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417792.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417803.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417812.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417845.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417854.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417863.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417873.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417882.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20170522/1495417898.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508212964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508212983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508213003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508213025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508213036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508213185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214613.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214651.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214665.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214677.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214704.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214721.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508214738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508215194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508215206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508215225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508215237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508216632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508216647.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508216659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/pics/20171017/1508216671.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/css/productclass.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/css/productclass_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/css/productcontent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/css/productlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/css/productquery_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/css/productroll10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/arrow10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/banzhu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/dot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/fandui.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/fav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/proli.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/tags.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/product/templates/images/zhichi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/scripts/ddsmoothmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/scripts/jquery-1.4.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/scripts/jquery.KinSlideshow-1.2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/scripts/webtry_roll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/su_new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611014993929392.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611021745864586.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611022328652865.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611023092419241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611023489748974.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611023652335233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611024088718871.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611024280778077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611025642914291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611030589108910.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611031086798679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611031134093409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611031576567656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/2011061103170236236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/2011061103180984984.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611032067186718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611032516391639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/long_war_exploded/uploadfile/20110611032733583358.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/longimage/AdminEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/longimage/ChanpinEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/longimage/ProduceshowEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/longimage/ServicesEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/longimage/ShouimageEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/longimage/ShouyedongtuEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/longimage/TaocansEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/longimage/TuijianproduceEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Banner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Cha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Edit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/HibernautUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Kan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Sadmins.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Servicecha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Shan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Shouyedongtu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Showpro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Taocan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/TypeDict.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/com/xc/Xianghca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/long/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/longimage/AdminEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/longimage/ChanpinEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/longimage/ProduceshowEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/longimage/ServicesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/longimage/ShouimageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/longimage/ShouyedongtuEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/longimage/TaocansEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/longimage/TuijianproduceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Banner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Cha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Edit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/HibernautUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Kan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Sadmins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Servicecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Shan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Shouyedongtu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Showpro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Taocan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/TypeDict.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xc/Xianghca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/bui-bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/artDialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/artDialog.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/jquery.artDialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/jquery.artDialog.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/plugins/iframeTools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/plugins/iframeTools.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/aero_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/aero_s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_title_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/aero/ie6/aui_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/bg_css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/bg_css3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/black/ie6/w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/bg_css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/bg_css3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/blue/ie6/w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/chrome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/chrome/border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/chrome/chrome_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/bg_css3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/bg_css3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/color_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/green/ie6/w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/icons/error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/icons/face-sad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/icons/face-smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/icons/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/icons/question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/icons/succeed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/icons/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/idialog_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/idialog_s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/idialog/ie6/aui_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_close.hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_ne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_nw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_s.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_sw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/ie6/aui_w.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/opera/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/artDialog/skins/twitter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/bootstrap.file-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/ckform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/formValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/formValidatorRegex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/getUrlParam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/jaaulde-cookies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/js.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Js/json2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Menu/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Menu/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Menu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Menu/js/dropmenu48.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Menu/templates/css/dropmenu48.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Menu/templates/images/bottommenu_1/E.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Menu/templates/images/menu48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Menu/templates/images/smenubg48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Node/Add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Node/Shouyedongtu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Node/Taocao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Node/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Node/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Node/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Node/service.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Node/servicecontrol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Public/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Role/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Role/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Role/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/User/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/User/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/User/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-codec-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/struts2-json-plugin-2.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/sun.misc.BASE64Decoder.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/js/advsgloballb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/link/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170411/1491903873.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170411/1491903907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170411/1491904133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170411/1491904268.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170412/1491980304.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170412/1491980402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170412/1491980406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170412/1491980410.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170412/1491980621.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170412/1491980760.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170412/1491980760.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/pics/20170519/1495203354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/templates/css/advsgloballb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/advs/templates/images/advsgloballb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/css/bui-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/css/dpl-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/css/main-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/css/page-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/css/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/hide_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/left-slib.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/main-nav-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/main-nav-bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/main-nav-bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/nav_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/resource.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/bui-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/bui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/common/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/common/main-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/common/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/common/page-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/common/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/common/search-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/common/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/config-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/editor-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/jquery-1.8.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/module/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/toolbar-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/js/tree-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/border/537/images/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/border/537/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/border/788/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/js/blockui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/js/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/templates/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/templates/images/chk_error.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/templates/images/chk_msg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/templates/images/chk_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/base/templates/images/pwin3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap-responsive.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/ddsmoothmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/tanchuang.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/webmain.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/diy/pics/20170519/1495191244.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/diy/pics/20170519/1495197132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/diy/pics/20170519/1495201292.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/diy/pics/20170519/1495201329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/diy/pics/20170519/1495201360.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/diy/pics/20170519/1495201421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/diy/pics/20170519/1495201868.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/effect/source/bg/1262661247.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/effect/source/bg/1491902298.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/effect/source/bg/1491902390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/front/Css/mobile_web.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/front/Image/home4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/front/Image/icon-address.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/front/Image/icon-author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/guestbook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/hlogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/houtai.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/MainMenu_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/add.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/banner01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/banner02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/banner03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/banner_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/body_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/cn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/con_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/copyright_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/gb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/getnum.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/index_AboutPic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/index_NewsPic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/info_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/input.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/inputbg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/leftmenu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/logo_820.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/logo_jc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/logo_ym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/mainmenu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/more.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/msg_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/msg_box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/nopic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/product_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/progressbar_microsoft.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/searchbut.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/searchinp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/site_nav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/site_title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/tel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/v_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/v_line2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/x_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/xuebao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/z2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/z3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/z4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/公司名.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/公司名1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/公司名副本.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/公司名副本1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/图片1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/棺材9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/活动图1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/活动图2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/活动图3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/活动图4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/活动图5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/活动图6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/滚动1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/滚动2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/滚动3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/灯1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/灯2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/灯3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/灵房1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/灵房2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/现场布置.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/现场布置2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/现场布置3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/现场布置4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/现场布置5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/现场布置6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/网图9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/花圈1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/花圈2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/花圈3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/花圈4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/indexZ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/job/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/job/templates/css/jobquery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/job/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/class/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/html/Index9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/js/newscontent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/js/newslist21.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/pics/20190419/201904191555644817295.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/css/newsclass_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/css/newscontent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/css/newslist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/css/newslist21.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/css/newsquery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/banzhu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/dot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/downfile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/fandui.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/fav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/li1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/newslist21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/tags.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/news/templates/images/zhichi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/page/html/companys.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/page/service/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/page/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/page/templates/css/pagecontent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/page/templates/css/pagetitlemenu_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/page/templates/images/dot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/class/Index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/class/Index2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/class/Index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/class/Index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/class/Index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/class/Index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/class/server.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/html/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/html/Index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/html/Index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/html/Index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/html/Index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/html/Index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/js/photocontent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495073096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495073168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495073217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495073242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495073263.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495073362.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495073446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495079505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495100517.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495101060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495101094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495101121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495101149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495101484.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170518/1495101571.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495193154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495193168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495193182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495193595.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495193631.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495193667.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495193695.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495193718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495199823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495199922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495199980.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170519/1495200051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170522/1495416879.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20170522/1495416919.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508214300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508214319.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508214332.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508214351.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508214379.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508214398.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508214413.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508214532.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/pics/20171017/1508216706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/css/photoclass_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/css/photocontent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/css/photopic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/css/photoquery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/css/phototwoclass.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/banzhu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/dot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/fandui.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/fav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/li.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/tags.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/photo/templates/images/zhichi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/class/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/class/Index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/js/productcontent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/js/productroll10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170518/1495072500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170518/1495072513.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170518/1495072523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170518/1495072562.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170518/1495072574.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170518/1495072591.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170519/1495190117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170519/1495190506.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170519/1495190530.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170519/1495193402.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170519/1495193419.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495416991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417039.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417060.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417069.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417085.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417243.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417269.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417280.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417290.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417301.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417313.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417339.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417349.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417782.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417792.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417803.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417812.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417845.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417854.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417863.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417873.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417882.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20170522/1495417898.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508212964.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508212983.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508213003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508213025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508213036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508213185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214613.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214651.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214665.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214677.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214704.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214721.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508214738.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508215194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508215206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508215225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508215237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508216632.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508216647.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508216659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/pics/20171017/1508216671.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/css/productclass.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/css/productclass_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/css/productcontent.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/css/productlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/css/productquery_dolphin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/css/productroll10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/arrow10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/banzhu.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/dot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/fandui.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/fav.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/proli.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/source.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/tags.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/product/templates/images/zhichi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scripts/ddsmoothmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scripts/jquery-1.4.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scripts/jquery.KinSlideshow-1.2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scripts/webtry_roll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/su_new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611014993929392.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611021745864586.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611022328652865.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611023092419241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611023489748974.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611023652335233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611024088718871.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611024280778077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611025642914291.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611030589108910.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611031086798679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611031134093409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611031576567656.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/2011061103170236236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/2011061103180984984.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611032067186718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611032516391639.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/uploadfile/20110611032733583358.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="long@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="long@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="long" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="struts_2_5" />
+        <option value="AnnotationType" />
+        <option value="Jsp File" />
+        <option value="HTML4 File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>canpinshow</find>
+      <find>公司简介</find>
+      <find>showcanpin</find>
+      <find>殡葬服务</find>
+      <find>尾页</find>
+      <find>服务套餐</find>
+      <find>&lt;%=</find>
+      <find>联系方式</find>
+      <find>友情</find>
+      <find>alert</find>
+      <find>xiangsh</find>
+      <find>xiangshow</find>
+      <find>pdv_16971</find>
+      <find>script</find>
+      <find>殡葬用品</find>
+      <find>xiang</find>
+      <find>Add</find>
+      <find>edit.</find>
+      <find>&lt;form</find>
+      <find>advsg</find>
+      <find>productcontent</find>
+      <find>cook</find>
+      <find>bodyzone</find>
+      <find>adv</find>
+      <find>advsexList</find>
+      <find>prodtitle</find>
+      <find>productview</find>
+      <find>下一页</find>
+      <find>spdv_18104</find>
+      <find>productroll10</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\lenovo\Desktop\long\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="40" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectId" id="1YITKCLH8su5LEfOjLaNxxlVBZU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="22f2edba-7e9d-4c8d-8600-20d127931bae" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38057142" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\long\long\web" />
+      <recent name="C:\Users\lenovo\Desktop\long\long\web\Js" />
+      <recent name="C:\Users\lenovo\Desktop\long\long\web\WEB-INF\lib" />
+      <recent name="C:\Users\lenovo\Desktop\long\long\lib" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="com.longimage" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\long\long\web\product\class" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.text">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xc.text" />
+      <module name="long" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="houtai.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/houtai.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat9.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jdk1.8.0_201">
+      <option name="BROWSER_ID" value="b1b2ec2c-20bd-4ee2-89c4-616db004bcd4" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="long:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_long_4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52763" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="long:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.text" />
+      <item itemvalue="JavaScript Debug.houtai.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.houtai.jsp" />
+        <item itemvalue="Application.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:long@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:long@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@29147364" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="233c9cef-dd87-45e3-9be9-69e386bcd777" name="Default" comment="" />
+      <created>1566187504606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566187504606</updated>
+      <workItem from="1566187815046" duration="24439000" />
+      <workItem from="1566220545679" duration="636000" />
+      <workItem from="1566221360573" duration="545000" />
+      <workItem from="1566222083153" duration="2288000" />
+      <workItem from="1566224430602" duration="470000" />
+      <workItem from="1566230191576" duration="2836000" />
+      <workItem from="1566233147946" duration="96000" />
+      <workItem from="1566264635094" duration="1057000" />
+      <workItem from="1566265864014" duration="11093000" />
+      <workItem from="1566356993451" duration="2819000" />
+      <workItem from="1566368417907" duration="511000" />
+      <workItem from="1566368947940" duration="168000" />
+      <workItem from="1566395029599" duration="4887000" />
+      <workItem from="1566440183750" duration="6818000" />
+      <workItem from="1566467377741" duration="2552000" />
+      <workItem from="1566524963628" duration="2694000" />
+      <workItem from="1566527878605" duration="3840000" />
+      <workItem from="1566531780134" duration="397000" />
+      <workItem from="1566532202743" duration="9274000" />
+      <workItem from="1566551362607" duration="1181000" />
+      <workItem from="1566552680479" duration="3194000" />
+      <workItem from="1566638741280" duration="14427000" />
+      <workItem from="1566696684738" duration="3524000" />
+      <workItem from="1566706038423" duration="192000" />
+      <workItem from="1566706979679" duration="6385000" />
+      <workItem from="1566734807528" duration="4071000" />
+      <workItem from="1566739996554" duration="2793000" />
+      <workItem from="1566784510692" duration="5324000" />
+      <workItem from="1566824026100" duration="3068000" />
+      <workItem from="1566896007339" duration="18094000" />
+      <workItem from="1566994603949" duration="2078000" />
+      <workItem from="1566996706774" duration="645000" />
+      <workItem from="1566997377108" duration="1764000" />
+      <workItem from="1567000894455" duration="1687000" />
+      <workItem from="1567005087976" duration="1865000" />
+      <workItem from="1567064510598" duration="4574000" />
+      <workItem from="1567069299052" duration="17356000" />
+      <workItem from="1567165672285" duration="3164000" />
+      <workItem from="1567168862001" duration="723000" />
+      <workItem from="1567169606532" duration="6091000" />
+      <workItem from="1567302409734" duration="8867000" />
+      <workItem from="1567341384253" duration="5012000" />
+      <workItem from="1567389526113" duration="862000" />
+      <workItem from="1567392006099" duration="5000" />
+      <workItem from="1567649757402" duration="48000" />
+      <workItem from="1567657912265" duration="2765000" />
+      <workItem from="1567766392493" duration="11281000" />
+      <workItem from="1567819859570" duration="3663000" />
+      <workItem from="1568255688991" duration="4155000" />
+      <workItem from="1568259975048" duration="1727000" />
+      <workItem from="1568263605112" duration="5792000" />
+      <workItem from="1568276427217" duration="12238000" />
+      <workItem from="1568379360055" duration="1532000" />
+      <workItem from="1568468579590" duration="4724000" />
+      <workItem from="1568550333389" duration="6845000" />
+      <workItem from="1568643433345" duration="1708000" />
+      <workItem from="1568794369007" duration="287000" />
+      <workItem from="1568794681401" duration="3000" />
+      <workItem from="1568795550408" duration="32000" />
+      <workItem from="1568811613710" duration="4823000" />
+      <workItem from="1568897570308" duration="4676000" />
+      <workItem from="1568956383697" duration="14143000" />
+      <workItem from="1568984464335" duration="2771000" />
+      <workItem from="1569068273969" duration="7293000" />
+      <workItem from="1569121144776" duration="4759000" />
+      <workItem from="1569130178582" duration="24117000" />
+      <workItem from="1569158778141" duration="4405000" />
+      <workItem from="1569239401042" duration="616000" />
+      <workItem from="1569481051133" duration="636000" />
+      <workItem from="1569483925971" duration="37000" />
+      <workItem from="1569762547792" duration="5054000" />
+      <workItem from="1569806799817" duration="3034000" />
+      <workItem from="1570021111281" duration="24000" />
+      <workItem from="1570023690810" duration="3062000" />
+      <workItem from="1582629047649" duration="1075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="。" />
+    <option name="LAST_COMMIT_MESSAGE" value="。" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="8" key="CommitChangelistDialog2" timestamp="1582630131686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582630131686" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1582629100875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582629100875" />
+    <state x="575" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1582629520593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1582629520593" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582629528702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1582629528702" />
+    <state x="555" y="203" key="git4idea.merge.GitPullDialog" timestamp="1582629535246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="203" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1582629535246" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/web/Js/js.cookie.js</url>
+          <line>46</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xc/Add.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>1480</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>1384</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>1590</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/product/class/Index.jsp</url>
+          <line>130</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/product/class/Index.jsp</url>
+          <line>645</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>1986</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>400</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/product/class/Index.jsp</url>
+          <line>370</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>267</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>1914</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>1912</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xc/Xianghca.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xc/Admin.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/index.jsp</url>
+          <line>784</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;org.hibernate.exception.SQLGrammarException: could not execute statement&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>long:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38057142" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Struts 2 (long)|Struts 2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38057142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38057142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38057142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate|long</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38057142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-beanutils-1.8.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38057142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

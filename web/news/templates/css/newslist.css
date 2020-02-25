@@ -1,0 +1,26 @@
+/* ============�����б�============== */
+
+ul.newslist{
+margin:0px 0px 0px 5px;
+padding:0px;
+}
+
+li.newslist {
+margin:0;
+padding-left:16px;
+list-style-type: none;
+font-weight:100;
+color:#fff;
+background: transparent url(../images/li1.gif) left no-repeat;
+}
+
+a.newslist:link,a.newslist:visited,a.newslist:active{
+text-decoration: none;
+font:14px/32px simsun;
+}
+
+a.newslist:hover{
+color:#4a86e8;
+text-decoration: underline;
+font:14px/32px simsun;
+}

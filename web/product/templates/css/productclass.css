@@ -1,0 +1,29 @@
+/* ============�����б�============== */
+
+ul.productclass{
+margin:0px;
+padding:0px;
+}
+
+li.productclass {
+float:left;
+margin-right:0px;
+padding:0px 16px 0px 16px;
+list-style-type: none;
+white-space: nowrap;
+background: transparent url(../images/proli.gif) left 7px no-repeat;
+}
+
+
+
+a.productclass:link,a.productclass:visited,a.productclass:active{
+color:#fff;
+text-decoration: none;
+font: 12px/20px simsun;
+}
+
+a.productclass:hover{
+color:#fff;
+text-decoration: underline;
+font: 12px/20px simsun;
+}

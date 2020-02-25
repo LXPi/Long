@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+    <!--<constant name="struts.enable.DynamicMethodInvocation" value="true" />&lt;!&ndash;在使用DMI动态方法调用时，设置为true,否则会出现调用异常问题&ndash;&gt;-->
+    <!--<constant name="struts.devMode" value="true" />-->
+    <!-- 常规Action配置 -->
+
+    <!-- 指定Struts2处于开发阶段，可以进行调试 -->
+    <!--<constant name="struts.devMode" value="true"/>-->
+    <!-- Struts2的Action都必须配置在package里，此处使用默认package -->
+    <!--<package name="default" namespace="/" extends="struts-default">-->
+    <package name="json" extends="struts-default,json-default" >
+        <action name="user" class="com.xc.Cha" method="sss">
+            <result type="json">
+                <!-- 这里指定将被Struts2序列化的属性，该属性在action中必须有对应的getter方法 -->
+                <param name="root">jsonArray</param>
+            </result>
+    <!-- result的name和Action类的execute方法的返回值一一对应，区分大小写 -->
+            <!-- result标签指明execute方法的返回值和资源视图的映射关系，转向的资源可以是jsp或者另一个action或者其他 -->
+            <!--<result name="success"></result>    &lt;!&ndash;通过结果返回值和name匹配跳转页面&ndash;&gt;-->
+        </action>
+        <action name="banner" class="com.xc.Banner" method="sss">
+        <result type="json">
+            <param name="root">jsonArray1</param>
+        </result>
+        </action>
+        <action name="showpro" class="com.xc.Showpro" method="sss">
+            <result type="json">
+                <param name="root">jsonArray2</param>
+            </result>
+        </action>
+        <action name="kan" class="com.xc.Kan" method="sss">
+            <result type="json">
+                <param name="root">jsonArray3</param>
+            </result>
+        </action>
+        <action name="Shan" class="com.xc.Shan" method="sss">
+            <result type="json">
+                <param name="root">tishi</param>   <!--//tishi变量如果没有也不会提示错误-->
+            </result>
+        </action>
+        <action name="Edit" class="com.xc.Edit" method="sss">
+        <result type="json">
+            <param name="root">tishi</param>   <!--//tishi变量如果没有也不会提示错误-->
+        </result>
+    </action>
+       <action name="hlogin" class="com.xc.Admin" method="logins">   <!--method方法为公共-->
+            <result type="json" >
+                <param name="root">jsonArray4</param>   <!--//tishi变量如果没有也不会提示错误-->
+            </result>
+        </action>
+        <action name="Add" class="com.xc.Add" method="sss">   <!--method方法为公共-->
+            <result type="json" >
+                <param name="root">tishi</param>   <!--//tishi变量如果没有也不会提示错误-->
+            </result>
+        </action>
+        <action name="Xiang" class="com.xc.Xianghca" method="sss">   <!--method方法为公共-->
+            <result type="json" >
+                <param name="root">xiang</param>   <!--//tishi变量如果没有也不会提示错误-->
+            </result>
+        </action>
+        <action name="service" class="com.xc.Servicecha" method="sss">   <!--method方法为公共-->
+            <result type="json" >
+                <param name="root">jsonArray3</param>   <!--//tishi变量如果没有也不会提示错误-->
+            </result>
+        </action>
+        <action name="taocan" class="com.xc.Taocan" method="sss">   <!--method方法为公共-->
+            <result type="json" >
+                <param name="root">jsonArray3</param>   <!--//tishi变量如果没有也不会提示错误-->
+            </result>
+        </action>
+        <action name="shouyedongtu" class="com.xc.Shouyedongtu" method="sss">   <!--method方法为公共-->
+            <result type="json" >
+                <param name="root">jsonArray</param>   <!--//tishi变量如果没有也不会提示错误-->
+            </result>
+        </action>
+    </package>
+</struts>

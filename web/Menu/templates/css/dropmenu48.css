@@ -1,0 +1,61 @@
+#dropmenu{	
+margin: 0;
+padding: 0;
+width:100%;
+}
+
+#dropmenu li{	
+float: left;
+list-style: none;
+font: 16px/35px  SimSun,'microsoft yahei',Verdana,Arial;
+
+}
+
+#dropmenu li a{	
+display: block;
+padding: 0px;
+text-align:center;
+text-decoration: none;
+width: 100px;
+color: #1A57A2;
+white-space: nowrap;
+font: 16px/35px  SimSun,'microsoft yahei',Verdana,Arial;
+}
+
+#dropmenu li a:hover{	
+color: #fff;
+background: url(../Menu/templates/images/menu48.png) repeat;
+font: 16px/35px  SimSun,'microsoft yahei',Verdana,Arial;
+}
+		
+#dropmenu li ul{
+margin: 0 0 0 0px;
+padding: 10px 0px;
+width: 100px;
+position: absolute;
+visibility: hidden;
+background: url(../Menu/templates/images/smenubg48.png) repeat;
+}
+		
+#dropmenu li ul li{
+float: none;
+display: inline;
+width: 100px;
+height:30px;
+font: 12px/30px  SimSun,'microsoft yahei',Verdana,Arial;
+}
+			
+#dropmenu li ul li a{	
+padding: 0px;
+text-align:center;
+color: #303030;
+background: transparent;
+font: 12px/30px  SimSun,'microsoft yahei',Verdana,Arial;
+}
+			
+#dropmenu li ul li a:hover{	
+padding: 0px;
+color: #fff;
+background: #1a57a2;
+font: 12px/30px  SimSun,'microsoft yahei',Verdana,Arial;
+}
